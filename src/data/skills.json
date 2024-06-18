@@ -36,6 +36,14 @@
     "imageSrc": "skills/express.png"
   },
   {
+    "title": "TailwindCSS",
+    "imageSrc": "skills/tailwind.png"
+  },
+  {
+    "title": "Git GitHub",
+    "imageSrc": "skills/github.png"
+  },
+  {
     "title": "Mysql",
     "imageSrc": "skills/mysql.png"
   },
