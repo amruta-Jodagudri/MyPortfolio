@@ -1,0 +1,47 @@
+[
+  {
+    "title": "News recommendation website",
+    "imageSrc": "projects/News.jpeg",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "API", "Bootstrap"],
+    "demo": "https://www.linkedin.com/posts/amruta-j-94676b219_reactjs-apiintegration-newsapp-activity-7148586203615858688-FD0g?utm_source=share&utm_medium=member_desktop",
+    "live":"",
+    "source": "https://github.com/amruta-Jodagudri/News_App"
+  },
+  {
+    "title": "Resto. food ordering website",
+    "imageSrc": "projects/reasto.jpeg",
+    "description": "This is a project made to learn the latest languages React by building an app.",
+    "skills": ["React", "Bootstrap", "Node", "CSS"],
+    "demo": "https://www.linkedin.com/posts/amruta-j-94676b219_reactrevolution-culinaryinnovation-webdevelopment-activity-7171953157600591872-wfBT?utm_source=share&utm_medium=member_desktop",
+    "live":"https://resto-app-8fji.onrender.com/",
+    "source": "https://github.com/amruta-Jodagudri/Resto."
+  },
+  {
+    "title": "AmsMovies recommandation Website",
+    "imageSrc": "projects/movies.jpeg",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "API", "Bootstrap"],
+    "demo": "https://www.linkedin.com/posts/amruta-j-94676b219_amsmovies-reactjsdeveloper-moviemagic-activity-7165040246089236480-GX5W?utm_source=share&utm_medium=member_desktop",
+    "live":"https://amsmovies.onrender.com",
+    "source": "https://github.com/amruta-Jodagudri/AmsMovies"
+  },
+  {
+    "title": "Music School",
+    "imageSrc": "projects/MUSIC.jpg",
+    "description": "This is a project made to learn the latest languages like Nextjs by building an app.",
+    "skills": ["Nextjs", "tailwind", "UI"],
+    "demo": "https://www.linkedin.com/posts/amruta-j-94676b219_nextjs-webdevelopment-musicschool-activity-7206576323517984769-b5-4?utm_source=share&utm_medium=member_desktop",
+    "live":"https://music-school-rhsf.vercel.app/",
+    "source": "https://github.com/amruta-Jodagudri/Music_School"
+  },
+  {
+    "title": "E-Commerce Website",
+    "imageSrc": "projects/e-comm.jpg",
+    "description": "This is a project made to learn the latest languages like Next.js by building an app.",
+    "skills": ["Nextjs", "MongoDB", "Node"],
+    "demo": "https://www.linkedin.com/posts/amruta-j-94676b219_ecommerce-nextjs-mongodb-activity-7208768513476337665-Sztx?utm_source=share&utm_medium=member_desktop",
+    "live":"https://e-comm-website-ten.vercel.app/",
+    "source": "https://github.com/amruta-Jodagudri/E-CommWebsite"
+  }
+]
